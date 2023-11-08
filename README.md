@@ -1,4 +1,4 @@
 # Akshay-demo
 this is my first git repository.
 <br>
-Author-Akshay gupta
+Author-Akshay gupta(gupta)
